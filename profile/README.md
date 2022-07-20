@@ -1,9 +1,9 @@
 # The Amadeus Project
 Is a collection of programming languages designed for its own porpuse, The Amadeus Project plans to simplfy the process of connecting different langauges and make it so that no drawbacks occur
 
-## On Development
+## Is it being developed currently?
 - [ ] SL - For Learning Langdev
-- [ ] Stabis - Stack Based Language because I hate variables
+- [x] Stabis - Stack Based Language because I hate variables
 - [ ] ..
 - [ ] ..
 - [ ] ..
