@@ -3,7 +3,7 @@ Is a collection of programming languages designed for its own porpuse, The Amade
 
 ## On Development
 - [ ] SL - For Learning Langdev
-- [ ] ..
+- [ ] Stabis - Stack Based Language because I hate variables
 - [ ] ..
 - [ ] ..
 - [ ] ..
