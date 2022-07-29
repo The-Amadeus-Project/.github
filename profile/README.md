@@ -3,8 +3,8 @@ Is a collection of programming languages designed for its own purposes
 
 ## Is it being developed currently?
 - [ ] SL - For Learning Langdev
-- [x] Stabis - Stack Based Language because I hate variables
-- [ ] ..
+- [ ] Stabis - Stack Based Language because I hate variables
+- [x] CorbLang - A lang to make the programmer have all the control
 - [ ] ..
 - [ ] ..
 - [ ] ..
